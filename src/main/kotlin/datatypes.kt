@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
     //Integer or Int
-    var age:Int = 20
-    var age = 30
+    //var age = 20
+    //var age = 30
 
     //Strings
     var name:String = "muraya"
@@ -17,6 +17,4 @@ fun main(args: Array<String>) {
 
     //Convert double to Float
     var marks = 46.587
-
-
 }
