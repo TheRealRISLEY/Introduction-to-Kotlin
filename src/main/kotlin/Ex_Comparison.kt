@@ -17,7 +17,5 @@ fun main(args: Array<String>) {
 
     else if (marks >= 10){
         print("E - You have to Repeat")}
-
-
-
+    
 }
