@@ -1,6 +1,9 @@
 fun main(args: Array<String>) {
-    var weight = 80
-    var height = 1.9
+    println("Enter Your Weight")
+    var weight:Int = readLine()!!.toInt()
+
+    println("Enter Your Height")
+    var height:Float = readLine()!!.toFloat()
 
     var bmi = weight / (height * height)
     if (bmi <= 18){
